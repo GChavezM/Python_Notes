@@ -1,4 +1,0 @@
-
-This is a test file.
-You are reading this message from the file
-Don't forget to close the file.
